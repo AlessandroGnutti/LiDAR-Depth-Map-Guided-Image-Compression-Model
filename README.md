@@ -40,7 +40,6 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
 
 ```
 @misc{gnutti2024lidardepthmapguided,
-
       title={LiDAR Depth Map Guided Image Compression Model}, 
       
       author={Alessandro Gnutti and Stefano Della Fiore and Mattia Savardi and Yi-Hsin Chen and Riccardo Leonardi and Wen-Hsiao Peng},

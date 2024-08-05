@@ -21,7 +21,7 @@ pip install timm tqdm click
 
 ## Dataset
 
-Our experiments have been carried out on [ARKitScenes Dataset](https://github.com/apple/ARKitScenes) (depth_upsampling).
+Our experiments have been carried out on [ARKitScenes Dataset](https://github.com/apple/ARKitScenes) (depth_upsampling). For reference, we have provided an example that includes high-resolution RGB, low-resolution depth, and upsampled low-resolution depth.
 
 ## Example usage
 

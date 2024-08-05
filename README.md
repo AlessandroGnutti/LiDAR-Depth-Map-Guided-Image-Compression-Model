@@ -53,4 +53,4 @@ For any information, please send an email to alessandro.gnutti@unibs.it
 
 ## Acknowledgement
 
-Our work is based on the framework of [Transformer_VariableROI](https://github.com/NYCU-MAPL/Transformer_VariableROI).
+Our work is based on the framework of [Transformer_VariableROI](https://github.com/NYCU-MAPL/Transformer_VariableROI). We thank the authors for open-sourcing their code.

@@ -49,9 +49,13 @@ If you use this code in your work, please consider citing the following paper:
       archivePrefix={arXiv},
       primaryClass={eess.IV},
       url={https://arxiv.org/abs/2401.06517}
-      }
+}
 ```
 
 ## Contacts
 
 For any information, please send an email to alessandro.gnutti@unibs.it
+
+## Acknowledgement
+
+Our work is based on the framework of [Transformer_VariableROI](https://github.com/NYCU-MAPL/Transformer_VariableROI).

@@ -8,21 +8,16 @@ The incorporation of LiDAR technology into some high-end smartphones has unlocke
 
 ## Install
 
-> git clone https://github.com/AlessandroGnutti/LiDAR-Depth-Map-Guided-Image-Compression-Model
-> 
-> cd LiDAR-Depth-Map-Guided-Image-Compression-Model
-> 
-> pip install -U pip
-> 
-> pip install torch torchvision
-> 
-> pip install pillow==9.2.0
-> 
-> pip install shapely==1.7.1
-> 
-> pip install -e .
-> 
-> pip install timm tqdm click
+```
+git clone https://github.com/AlessandroGnutti/LiDAR-Depth-Map-Guided-Image-Compression-Model
+cd LiDAR-Depth-Map-Guided-Image-Compression-Model 
+pip install -U pip 
+pip install torch torchvision
+pip install pillow==9.2.0
+pip install shapely==1.7.1 
+pip install -e . 
+pip install timm tqdm click
+```
 
 ## Dataset
 

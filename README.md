@@ -31,6 +31,10 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
 
 `python examples/variablerate_with_lidar.py -c config/variablerate_with_lidar.yaml`
 
+## Pre-trained weights
+
+You can find the pre-trained weights of our proposed method here [download link](https://drive.google.com/file/d/1DcoVQiUGyYBv-NGhTkXi_U7FF8Tsc7tW/view?usp=drive_link).
+
 ## Citation
 
 If you use this code in your work, please consider citing the following paper:

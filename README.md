@@ -26,6 +26,14 @@ The incorporation of LiDAR technology into some high-end smartphones has unlocke
 
 ## Dataset
 
-Our experiments have been carried out on [ARKitScenes Dataset](https://github.com/apple/ARKitScenes).
+Our experiments have been carried out on [ARKitScenes Dataset](https://github.com/apple/ARKitScenes) (depth_upsampling).
+
+## Example usage
+
+### Training
+
+### Testing
+
+> python examples/variablerate_with_lidar.py -c config/variablerate_with_lidar.yaml
 
 

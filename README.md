@@ -38,7 +38,7 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
 
 ## Citation
 
-`
+```
 @misc{gnutti2024lidardepthmapguided,
 
       title={LiDAR Depth Map Guided Image Compression Model}, 
@@ -54,5 +54,5 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
       primaryClass={eess.IV},
       
       url={https://arxiv.org/abs/2401.06517}, 
-      
-}`
+      }
+```

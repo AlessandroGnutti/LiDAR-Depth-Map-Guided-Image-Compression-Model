@@ -38,6 +38,8 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
 
 ## Citation
 
+If you use this code in your work, please consider citing the following paper:
+
 ```
 @misc{gnutti2024lidardepthmapguided,
       title={LiDAR Depth Map Guided Image Compression Model}, 
@@ -49,3 +51,7 @@ Our experiments have been carried out on [ARKitScenes Dataset](https://github.co
       url={https://arxiv.org/abs/2401.06517}
       }
 ```
+
+## Contacts
+
+For any information, please send an email to alessandro.gnutti@unibs.it

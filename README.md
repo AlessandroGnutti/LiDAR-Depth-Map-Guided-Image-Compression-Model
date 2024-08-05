@@ -9,13 +9,13 @@ Specifically, we propose a Transformer-based learned image compression system ca
 
 ## Install
 
-git clone https://github.com/AlessandroGnutti/LiDAR-Depth-Map-Guided-Image-Compression-Model
-cd LiDAR-Depth-Map-Guided-Image-Compression-Model
-pip install -U pip
-pip install torch torchvision # have to match with the cuda version (we use 1.12.0+cu113)
-pip install pillow==9.2.0
-pip install shapely==1.7.1
-pip install -e .
-pip install timm tqdm click
+> git clone https://github.com/AlessandroGnutti/LiDAR-Depth-Map-Guided-Image-Compression-Model
+> cd LiDAR-Depth-Map-Guided-Image-Compression-Model
+> pip install -U pip
+> pip install torch torchvision # have to match with the cuda version (we use 1.12.0+cu113)
+> pip install pillow==9.2.0
+> pip install shapely==1.7.1
+> pip install -e .
+> pip install timm tqdm click
 
 ##

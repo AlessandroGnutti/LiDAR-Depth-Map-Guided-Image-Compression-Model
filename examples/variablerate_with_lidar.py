@@ -261,7 +261,7 @@ def test_epoch(epoch, test_dataloader, model, criterion_rd, stage='test', tqdm_m
                 lambda_decoder = lambda_encoder[:,:,:d.shape[2]//16,:d.shape[3]//16]
                 lambda_masks  = torch.zeros(d.shape[0], 1, d.shape[2], d.shape[3], device=device).fill_(lmbda)
                 
-                lidar_map = torch.ones_like(lambda_masks).to(device)
+                #lidar_map = torch.ones_like(lambda_masks).to(device)
                 
                 out_net = model(d, lambda_encoder, lambda_decoder, lidar_map)
                 out_criterion = criterion_rd(out_net, d, lambda_masks)

@@ -2,6 +2,8 @@
 
 Accepted to IEEE ICIP 2024.
 
+This study was carried out within the LICAM project – funded by European Union – Next Generation EU  within the PRIN 2022 program (D.D. 104 - 02/02/2022 Ministero dell’Università e della Ricerca).
+
 ## Abstract
 
 The incorporation of LiDAR technology into some high-end smartphones has unlocked numerous possibilities across various applications, including photography, image restoration, augmented reality, and more. In this paper, we introduce a novel direction that harnesses LiDAR depth maps to enhance the compression of the corresponding RGB camera images. To the best of our knowledge, this represents the initial exploration in this particular research direction. Specifically, we propose a Transformer-based learned image compression system capable of achieving variable-rate compression using a single model while utilizing the LiDAR depth map as supplementary information for both the encoding and decoding processes. Experimental results demonstrate that integrating LiDAR yields an average PSNR gain of $0.83$ dB and an average bitrate reduction of $16$% as compared to its absence.

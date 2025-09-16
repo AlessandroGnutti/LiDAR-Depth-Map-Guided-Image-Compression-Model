@@ -42,15 +42,16 @@ You can find the pre-trained weights of our proposed method here [download link]
 If you use this code in your work, please consider citing the following paper:
 
 ```
-@misc{gnutti2024lidardepthmapguided,
-      title={LiDAR Depth Map Guided Image Compression Model}, 
-      author={Alessandro Gnutti and Stefano Della Fiore and Mattia Savardi and Yi-Hsin Chen and Riccardo Leonardi and Wen-Hsiao Peng},
-      year={2024},
-      eprint={2401.06517},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2401.06517}
-}
+@INPROCEEDINGS{gnutti2024,
+  author={Gnutti, Alessandro and Fiore, Stefano Della and Savardi, Mattia and Chen, Yi-Hsin and Leonardi, Riccardo and Peng, Wen-Hsiao},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Lidar Depth Map Guided Image Compression Model}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1890-1896},
+  keywords={Photography;Performance evaluation;Laser radar;Image coding;Cameras;Transformers;Decoding;Learned image compression;LiDAR;depth map;prompts;transformer},
+  doi={10.1109/ICIP51287.2024.10648184}}
 ```
 
 ## Contacts

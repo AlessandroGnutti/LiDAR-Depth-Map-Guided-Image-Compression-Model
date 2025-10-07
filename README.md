@@ -1,3 +1,6 @@
+
+![logo](https://github.com/user-attachments/assets/64f089c1-d1d9-4153-ac83-5993424a48d0)
+
 # LiDAR-Depth-Map-Guided-Image-Compression-Model
 
 Accepted to IEEE ICIP 2024.
